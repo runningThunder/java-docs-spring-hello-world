@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'microsoftsamplehelloworld'
           slot-name: 'Dev'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_176A75F1BD5A4DCEB1E54A557B58E341 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_326521F739644CDC9B49A32997B0AFA3 }}
           package: '*.jar'
